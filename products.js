@@ -1,6 +1,6 @@
 {
   id       : 1,
-  name     : "Nama Produk",
+  name     : "test barang",
   image    : "https://link-gambar.jpg",
   price    : 45000,
   status   : "ready",   // atau "sold"
